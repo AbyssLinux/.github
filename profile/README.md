@@ -15,6 +15,9 @@ existing components.
 
 These tools can also be used on any Void Linux system, although made for Abyss.
 
+## Idea
+All of the tools / configuration files used in Abyss can be used on any regular Void Linux system, so that any user can benefit from the tools and config files.
+
 ## Status
 
 Abyss Linux is under active development and should be considered
